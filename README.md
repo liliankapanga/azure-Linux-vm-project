@@ -3,15 +3,14 @@
 ## Project Overview
 This project involved deploying and configuring an Ubuntu Linux virtual machine in Microsoft Azure, including networking, security, Linux administration, Apache web server installation, cost management, and RBAC.
 ## Technologies & Azure Services
--Microsoft Azure
--Azure Virtual Machine
--Ubuntu Linux
--Virtual Network & Subnet
--Network Security Group (NSG)
--SSH
--Apache Web Server
--Azure RBAC
--Standard SSD
+Microsoft Azure
+Azure Virtual Machine
+Ubuntu Linux
+Virtual Network & Subnet
+Network Security Group (NSG)
+Apache Web Server
+Azure RBAC
+Standard SSD
 ## What I Configured
 -Created an Ubuntu Linux virtual machine
 -Configured a Virtual Network and subnet

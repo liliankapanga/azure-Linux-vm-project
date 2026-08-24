@@ -1,3 +1,4 @@
 Azure Linux Virtual Machine Project
 Created a Linux virtual machine project using Microsoft AZURE
-Purpose'To practise creating and managing a Linux virtual machine in azure
+Purpose; To practice creating and managing a Linux virtual machine in azure
+Operating system Linux
